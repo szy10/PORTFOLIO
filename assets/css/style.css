@@ -593,7 +593,7 @@ section .container {
 --------------------------------------------------------------*/
 .services .icon-box {
   text-align: center;
-  background: #8A9EA7;
+  background: #3b6a80;
   padding: 80px 20px;
   transition: all ease-in-out 0.3s;
 }
